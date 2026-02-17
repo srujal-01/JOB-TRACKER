@@ -1,3 +1,3 @@
-# JOB-TRACKER
+# job-tracker
 CHECH OUT THE LIVE APP HERE
 https://lovable.dev/products/srujal09
